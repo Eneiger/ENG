@@ -1,2 +1,0 @@
-# ENG
-Локализация Bless Online
